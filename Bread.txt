@@ -1,2 +1,6 @@
 Baguette Petit pain Tiger bread Granary Wholemeal Rye Sourdough
+<<<<<<< HEAD
 Pitta Naan Cob Farmhouse Ciabatta Paninni Brioche Bagel Crumpet
+=======
+Pitta Naan Cob Farmhouse Ciabatta Paninni Brioche Bagel
+>>>>>>> BranchA
